@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hello World ! 👋
 
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning .Net core,C#,Python and Flutter.
 - 💬 Ask me about any technology related stuff.
