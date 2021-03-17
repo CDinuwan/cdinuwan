@@ -1,7 +1,7 @@
-### Hello World ! 👋
+### Hello World ! 👋 
 
 
-- 🌱 I’m currently learning .Net core,C#,Python and Flutter.
+- 🌱 I’m currently learning .Net Framework,C#,Python and Flutter.
 - 💬 Ask me about any technology related stuff.
 - 📫 How to reach me: linkedin [@ChanukaDinuwan](https://www.linkedin.com/in/chanuka-dinuwan-7190b516a/) , Twitter [@CDinuwan](https://twitter.com/Chanuka77443950) , Facebook [@ChanukaDinuwan](https://www.facebook.com/profile.php?id=100005226857957)
 - 😄 Pronouns: He/His
