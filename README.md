@@ -10,11 +10,10 @@
 <br/>
 
 [//]: # (<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" align="center">)
-Hello there, I'm Chanuka !, Welcome to my GitHub page. 
+Hello there, I'm Chanuka!, Software Engineer. Welcome to my GitHub page. 
 <br/>
 Passionate software engineer dedicated to crafting elegant solutions and pushing the boundaries of technology. Welcome to my GitHub, where innovation meets code!
 <br/> 
-Software Engineer.
 </h4>
 
 ![Django](https://img.shields.io/badge/Django-black?logo=django)
