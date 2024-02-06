@@ -8,6 +8,10 @@
 <h4 style="font-family:cursive"  align="center">
 <a><img src="https://profile-counter.glitch.me/CDinuwan/count.svg" width="150px"/></a>
 <br/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<br/>
 
 [//]: # (<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" align="center">)
 Hello there, I'm Chanuka, Software Engineer. Welcome to my GitHub page. 
