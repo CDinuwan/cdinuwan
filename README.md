@@ -56,5 +56,6 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 
 ### GitHub's Data Statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdinuwan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </a>
