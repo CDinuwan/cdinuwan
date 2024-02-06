@@ -6,7 +6,7 @@
   }
 </style> -->
 <h4 style="font-family:cursive"  align="center">
-<a><img src="https://profile-counter.glitch.me/cdinuwan/count.svg" width="150px"/></a>
+<a><img src="https://profile-counter.glitch.me/CDinuwan/count.svg" width="150px"/></a>
 <br/>
 
 [//]: # (<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" align="center">)
@@ -38,7 +38,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 [//]: # (<a><img src="https://profile-counter.glitch.me/chanuka/count.svg" width="150px"/></a>)
 
 ### GitHub's Data Statistics
-<a href="https://github.com/cdinuwan/github-stats">
-<img src="https://github.com/cdinuwan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/cdinuwan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://github.com/CDinuwan/github-stats">
+<img src="https://github.com/CDinuwan/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/CDinuwan/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
