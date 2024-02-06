@@ -11,6 +11,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/cdinuwan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@cdinuwan">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://twitter.com/HECDinuwan">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 <br/>
 
 [//]: # (<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" align="center">)
@@ -20,9 +31,6 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 <br/> 
 </h4>
 ---
-
-### :writing_hand: Blog Posts :
-<a src = "https://medium.com/@cdinuwan"> Click Here! </a>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
