@@ -19,6 +19,9 @@ Hello there, I'm Chanuka, Software Engineer. Welcome to my GitHub page.
 Passionate software engineer dedicated to crafting elegant solutions and pushing the boundaries of technology. Welcome to my GitHub, where innovation meets code!
 <br/> 
 </h4>
+---
+
+### :writing_hand: Blog Posts :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
