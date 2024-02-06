@@ -43,5 +43,5 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 [//]: # (<a><img src="https://profile-counter.glitch.me/chanuka/count.svg" width="150px"/></a>)
 
 ### GitHub's Data Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdinuwan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </a>
