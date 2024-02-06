@@ -6,11 +6,11 @@
   }
 </style> -->
 <h4 style="font-family:cursive"  align="center">
-<a><img src="https://profile-counter.glitch.me/sathir/count.svg" width="150px"/></a>
+<a><img src="https://profile-counter.glitch.me/chanuka/count.svg" width="150px"/></a>
 <br/>
 
 [//]: # (<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" align="center">)
-Hello there, I'm Chanuka!, Software Engineer. Welcome to my GitHub page. 
+Hello there, I'm Chanuka, Software Engineer. Welcome to my GitHub page. 
 <br/>
 Passionate software engineer dedicated to crafting elegant solutions and pushing the boundaries of technology. Welcome to my GitHub, where innovation meets code!
 <br/> 
