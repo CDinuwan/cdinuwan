@@ -25,7 +25,7 @@
 <br/>
 
 [//]: # (<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" align="center">)
-Hello there, I'm Chanuka
+Hello there, I'm Chanuka!
 <br/>
 Passionate software engineer dedicated to crafting elegant solutions and pushing the boundaries of technology. Welcome to my GitHub, where innovation meets code!
 <br/> 
