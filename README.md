@@ -64,7 +64,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 - Backend
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,fastapi,express,nestjs,python,django,dotnet,fastapi,flask,gradle,redis" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,fastapi,express,nestjs,python,django,dotnet,fastapi,flask,gradle,redis,ts,selenium" />
   </a>
 </p>
 
@@ -99,14 +99,14 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 - Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,Canva,androidstudio,atom,elasticsearch,grafana,kali,kubernetes,terraform" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,androidstudio,atom,elasticsearch,grafana,kali,kubernetes,terraform,webstorm,vscode,visualstudio" />
   </a>
 </p>
 
 - AI & Big Data Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,opencv" />
+    <img src="https://skillicons.dev/icons?i=anaconda,opencv,sklearn" />
   </a>
 </p>
 
