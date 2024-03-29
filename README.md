@@ -59,24 +59,26 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 </div>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Frameworks, Libraries and Tools:</h3>
+
 - Backend
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,fastapi,express,nestjs,python" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,fastapi,express,nestjs,python,django,dotnet,fastapi,flask,gradle,redis" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,materialui,html,css" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,materialui,html,css,bootstrap,cypress,flutter" />
   </a>
 </p>
+
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,spark" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,firebase" />
   </a>
 </p>
 
@@ -87,10 +89,24 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
   </a>
 </p>
 
-- Tools
+- CICD Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,Canva,webstorm,postman" />
+    <img src="https://skillicons.dev/icons?i=gitlab,jenkins" />
+  </a>
+</p>
+
+- Development Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,Canva,androidstudio,atom,elasticsearch,grafana,kali,kubernetes,terraform" />
+  </a>
+</p>
+
+- AI & Big Data Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,opencv" />
   </a>
 </p>
 
