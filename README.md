@@ -54,6 +54,11 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<div align="center">
+  ### GitHub's Data Statistics
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 - Backend
  <p align="left">
@@ -95,8 +100,4 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 
 [//]: # (<a><img src="https://profile-counter.glitch.me/chanuka/count.svg" width="150px"/></a>)
 
-### GitHub's Data Statistics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdinuwan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </a>
