@@ -76,7 +76,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,neo4j" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,spark" />
   </a>
 </p>
 
