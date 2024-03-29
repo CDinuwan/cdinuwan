@@ -54,6 +54,43 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">Languages and Tools:</h3>
+- Backend
+ <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,fastapi,express,nestjs,hibernate,python" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,materialui,html,css" />
+  </a>
+</p>
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,MySQL,PostgreSQL,neo4js" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,oracle" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,Canva,webstorm,postman" />
+  </a>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 [//]: # (### Socials & Visit Count)
 
 [//]: # (<a><img src="https://profile-counter.glitch.me/chanuka/count.svg" width="150px"/></a>)
