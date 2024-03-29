@@ -101,7 +101,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 - Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux,androidstudio,atom,elasticsearch,grafana,kali,kubernetes,terraform,webstorm,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,androidstudio,atom,elasticsearch,grafana,kali,kubernetes,terraform,webstorm,vscode,visualstudio" />
   </a>
 </p>
 
