@@ -52,6 +52,8 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 [//]: # (### Socials & Visit Count)
 
 [//]: # (<a><img src="https://profile-counter.glitch.me/chanuka/count.svg" width="150px"/></a>)
