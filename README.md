@@ -63,7 +63,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 - Backend
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,fastapi,express,nestjs,hibernate,python" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,fastapi,express,nestjs,python" />
   </a>
 </p>
 
