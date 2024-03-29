@@ -59,6 +59,8 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 </div>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="left">Languages, Frameworks, Libraries and Tools:</h3>
 
 - Backend
