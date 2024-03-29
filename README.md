@@ -57,7 +57,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 <div align="center">
   <h3>GitHub's Data Statistics</h3>
 </div>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)
+(http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -74,6 +74,13 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,materialui,html,css,bootstrap,cypress,flutter" />
+  </a>
+</p>
+
+- Development Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,androidstudio,atom,elasticsearch,grafana,kali,kubernetes,terraform,webstorm,vscode,visualstudio" />
   </a>
 </p>
 
@@ -95,13 +102,6 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gitlab,jenkins" />
-  </a>
-</p>
-
-- Development Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,linux,androidstudio,atom,elasticsearch,grafana,kali,kubernetes,terraform,webstorm,vscode,visualstudio" />
   </a>
 </p>
 
