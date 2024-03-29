@@ -57,7 +57,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 <div align="center">
   <h3>GitHub's Data Statistics</h3>
 </div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=cdinuwan" alt="GitHub Streak" /></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
