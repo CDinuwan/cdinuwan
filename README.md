@@ -76,14 +76,14 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,MySQL,PostgreSQL,neo4js" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,PostgreSQL,neo4js" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,oracle" />
+    <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
 
