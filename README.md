@@ -57,7 +57,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 <div align="center">
   <h3>GitHub's Data Statistics</h3>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdinuwan&theme=dark&background=000000)
 
 <h3 align="left">Languages and Tools:</h3>
 - Backend
