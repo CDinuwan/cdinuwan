@@ -54,12 +54,11 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center">
+<div style="text-align: center;">
   <h3>GitHub's Data Statistics</h3>
-<a href="https://git.io/streak-stats">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-  <img src="https://streak-stats.demolab.com/?user=CDinuwan" alt="GitHub Streak" />
-</a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=CDinuwan&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
